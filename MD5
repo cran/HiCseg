@@ -1,0 +1,9 @@
+6f4c073ccc797e061f129c3f62a36dcd *DESCRIPTION
+6f0fa15ade76bc9082dfd333575e7a5a *NAMESPACE
+af90b028e8c55a8b3cf0bb7cb3e4870f *R/HiCseg_linkC_R.R
+54d08beff2fba1034ee24668740a1f69 *data/matrice.rda
+91fd4af8ccdcd834d3c407e93351147e *man/HiCseg-package.Rd
+6dbdb5df5adcd73989c1eb31824ccece *man/HiCseg_linkC_R.Rd
+fbe7d64b3e5f35219cddf1fc828e0e15 *man/matrice.Rd
+e345f1d95268f40dc43593e7d767ab81 *src/HiCseg_linkR.c
+3534ea147619c6c5e8d8cfc016942ce6 *src/Makevars
