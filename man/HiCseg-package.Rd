@@ -25,9 +25,9 @@ C. Levy-Leduc
 }
 \examples{
 library(HiCseg)
-data(matrice)
+data(matrix)
 n=200
 Kmax=10
-res=HiCseg_linkC_R(n,Kmax,"G",matrice,"D")
+res=HiCseg_linkC_R(n,Kmax,"G",matrix,"D")
 print(res)
 }
